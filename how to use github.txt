@@ -11,3 +11,10 @@ git push -u origin main
 git remote add origin https://github.com/chodaejoonNuvo/githubTest.git
 git branch -M main
 git push -u origin main
+
+
+
+git add .
+git branch -M master(rename branch)
+git commit -m "howtouse"
+git push
